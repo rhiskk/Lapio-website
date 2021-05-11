@@ -1,11 +1,29 @@
 
-h1 { color: blue; }
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+}
 
-li { color: pink; }
+h1 {
+  margin-top: 1em;
+  color: #333;
+}
 
-.alaotsikko { color: brown; }
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
 
-#punainen { color: red; }
+h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
 
 .first-box-container {
   width: 180px;
