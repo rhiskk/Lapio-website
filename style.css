@@ -8,24 +8,45 @@ li { color: pink; }
 #punainen { color: red; }
 
 .first-box-container {
-  width: 200px;
-  height: 100px;
+  width: 180px;
+  height: 110px;
+  padding: 30px 5px 5px;
   background-color: red;
+  border-style: solid;
+  border-color: green;
+  border-width: 10px;
   position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
 }
 
 .second-box-container { 
-  width: 200px;
-  height: 100px;
+  width: 180px;
+  height: 110px;
+  padding: 30px 5px 5px;
   background-color: yellow;
+  border-style: solid;
+  border-color: red;
+  border-width: 10px;
   position: absolute;
   left: 250px;
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
 }
 
 .third-box-container { 
-  width: 200px;
-  height: 100px;
+  width: 180px;
+  height: 110px;
+  padding: 30px 5px 5px;
   background-color: green;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 10px;
   position: absolute;
   left: 500px;
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
 }
